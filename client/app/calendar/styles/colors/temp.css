@@ -1,0 +1,45 @@
+:root {
+  --default: #234295;
+
+  --ctgscheme1col1: #016897;
+  --ctgscheme1col2: #5fa5a9;
+  --ctgscheme1col3: #2789d5;
+  --ctgscheme1col4: #4790ba;
+  --ctgscheme1col5: #2d93ad;
+
+  --ctgscheme2col5: #3e4656;
+  --ctgscheme2col5: #3b3c40;
+  --ctgscheme2col5: #585b66;
+  --ctgscheme2col5: #616374;
+  --ctgscheme2col5: #413a3a;
+
+  --ctgscheme3col1: #241d2d;
+  --ctgscheme3col2: #372549;
+  --ctgscheme3col3: #774c60;
+  --ctgscheme3col4: #b75d69;
+  --ctgscheme3col5: #bc907e;
+
+  --ctgscheme4col1: #9297c1;
+  --ctgscheme4col2: #7777a8;
+  --ctgscheme4col3: #c38d94;
+  --ctgscheme4col4: #a76571;
+  --ctgscheme4col5: #565676;
+
+  --ctgscheme5col1: #152526;
+  --ctgscheme5col2: #30544f;
+  --ctgscheme5col3: #319a8b;
+  --ctgscheme5col4: #25c1b9;
+  --ctgscheme5col5: #5d3947;
+
+  --ctgscheme6col1: #6d3737;
+  --ctgscheme6col2: #413a3a;
+  --ctgscheme6col3: #c32b2b;
+  --ctgscheme6col4: #9c4040;
+  --ctgscheme6col5: #aa3d3d;
+
+  --ctgscheme7col1: #2a312f;
+  --ctgscheme7col2: #222323;
+  --ctgscheme7col3: #384b46;
+  --ctgscheme7col4: #384340;
+  --ctgscheme7col5: #3b4846;
+}
